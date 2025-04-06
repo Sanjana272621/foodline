@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Frontend:** React + Vite + Tailwind CSS  
 - **Backend:** FastAPI  
