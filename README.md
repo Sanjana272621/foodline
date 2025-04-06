@@ -126,10 +126,13 @@ Authorization: Bearer <your_token_here>
 
 ## Future Enhancements
 
-- Email verification and password reset
-- Google Maps integration for selecting location
-- Dashboard for admins
-- Notification system
+- Add email verification and password reset functionality
+- Admin dashboard for monitoring users, claims, and analytics
+- Notification system for real-time updates
+- **Machine Learning integration** to:
+  - Predict food demand trends based on historical claims
+  - Recommend optimal pickup timings to minimize wastage
+  - Analyze donation patterns for smarter resource distribution
 
 ---
 
