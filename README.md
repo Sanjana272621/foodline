@@ -135,7 +135,10 @@ Authorization: Bearer <your_token_here>
 
 ## Contributors
 
-- **Sanjana S.** — [GitHub](https://github.com/yourusername)
+- **Sanjana S.**
+- **Sejavarthana Anbalagan**
+- **Pradeepaa M.**
+- **Vaishnavi J.** 
 
 ---
 
