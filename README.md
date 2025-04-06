@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 - **Frontend:** React + Vite + Tailwind CSS  
 - **Backend:** FastAPI  
@@ -14,14 +14,14 @@
 
 ---
 
-## 🚀 Features
+## Features
 
-### ✅ Donor
+### Donor
 - Register and log in
 - Add food gathering details (location, availability time, food type)
 - View personal gathering history
 
-### 🎯 Recipient (e.g., orphanages)
+### Recipient (e.g., orphanages)
 - Register and log in
 - View available food donations near their location
 - Claim a food gathering
@@ -29,7 +29,7 @@
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repo
 
@@ -84,7 +84,7 @@ Frontend runs on:
 
 ---
 
-## 🧪 API Endpoints
+## API Endpoints
 
 You can test all API endpoints using FastAPI docs:
 
@@ -92,7 +92,7 @@ You can test all API endpoints using FastAPI docs:
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 foodline/
@@ -113,7 +113,7 @@ foodline/
 
 ---
 
-## 🔐 Authentication
+## Authentication
 
 - JWT tokens are issued during login
 - Token must be sent in the `Authorization` header for protected endpoints:
@@ -124,7 +124,7 @@ Authorization: Bearer <your_token_here>
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - Email verification and password reset
 - Google Maps integration for selecting location
@@ -133,12 +133,12 @@ Authorization: Bearer <your_token_here>
 
 ---
 
-## 🧑‍💻 Contributors
+## Contributors
 
 - **Sanjana S.** — [GitHub](https://github.com/yourusername)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
